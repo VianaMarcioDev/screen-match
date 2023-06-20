@@ -5,4 +5,8 @@ public class Filme {
     double avaliacao;
     int totalAvaliacoes;
     int duracaoEmMinutos;
+
+    void exibeFichaTecnica(){
+
+    }
 }
